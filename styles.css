@@ -5,6 +5,6 @@ h1 {
 }
 
 p {
-  color: red;
-  shadow: 1px;
+  color: blue;
+  text-shadow: 1px;
 }
