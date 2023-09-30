@@ -1,6 +1,11 @@
+body
+{
+  background-color: 1E1E1E;
+}
+
 h1 {
   color: blue;
-  background-color: "1E1E1E";
+  background-color: 1E1E1E;
   border: 1px solid black;
 }
 
