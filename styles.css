@@ -1,27 +1,10 @@
 h1 {
   color: blue;
-  background-color: 1E1E1E;
+  background-color: "1E1E1E";
   border: 1px solid black;
 }
 
 p {
   color: blue;
   text-shadow: 20px;
-}
-
-.topnav {
-  overflow: hidden;
-  background-color: #e9e9e9;
-}
-
-/* Style the search box inside the navigation bar */
-.topnav {
-  width:200px;
-  height:200px;
-  position: fixed;
-  background-color: blue;
-  top: 50%;
-  left: 50%;
-  margin-top: -100px;
-  margin-left: -100px;
 }
