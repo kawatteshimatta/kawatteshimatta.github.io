@@ -10,7 +10,7 @@ p {
 }
 
 /* Style the search box inside the navigation bar */
-.topnav input[type=text] {
+.topnav {
   width:200px;
   height:200px;
   position: fixed;
